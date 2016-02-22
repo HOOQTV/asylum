@@ -15,7 +15,7 @@ Then you can use asylum to check all JavaScript files in the current working dir
 ```
 $ asylum
 asylum: Here is our asylum (https://github.com/HOOQsters/asylum#readme)
-  /Users/diorahman/Experiments/hooq/src/receiver/app.js:1:1: Strings must use singlequote.
+  /Users/asylum/src/foo/app.js:1:1: Strings must use singlequote.
 ```
 
 ### Text editor plugins
