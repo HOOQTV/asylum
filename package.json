@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/HOOQsters/asylum/issues"
   },
-  "homepage": "https://github.com/HOOQsters/asylum#readme"
+  "homepage": "https://github.com/HOOQsters/asylum#readme",
+  "directories": {
+    "test": "test"
+  }
 }
