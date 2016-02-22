@@ -18,7 +18,7 @@
     "standard-engine": "^3.3.0"
   },
   "bin": {
-    "troopa": "./bin/cmd.js"
+    "asylum": "./bin/cmd.js"
   },
   "devDependencies": {
     "cross-spawn-async": "^2.1.8",
