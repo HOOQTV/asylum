@@ -2,6 +2,22 @@
 
 ![HOOQ](https://hooq.tv/img/logo.png)
 
+## Usage
+
+To use it as a global node program, you can installed `asylum` globally:
+
+```
+npm install asylum -g
+```
+
+Then you can use asylum to check all JavaScript files in the current working directory:
+
+```
+$ asylum
+asylum: Here is our asylum (https://github.com/HOOQsters/asylum#readme)
+  /Users/diorahman/Experiments/hooq/src/receiver/app.js:1:1: Strings must use singlequote.
+```
+
 ### Text editor plugins
 
 First, install `asylum`.
