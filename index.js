@@ -1,5 +1,4 @@
-var Linter = require('standard-engine').linter
+var Linter = require('standard-engine').linter,
+    opts = require('./options');
 
-var opts = require('./options')
-
-module.exports = new Linter(opts)
+module.exports = new Linter(opts);
