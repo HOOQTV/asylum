@@ -11,7 +11,7 @@
   "dependencies": {
     "babel-eslint": "^5.0.0",
     "eslint": "^2.1.0",
-    "eslint-config-sanctuary": "^1.0.0",
+    "eslint-config-sanctuary": "^1.2.0",
     "eslint-plugin-babel": "^3.1.0",
     "eslint-plugin-promise": "^1.0.8",
     "eslint-plugin-sanctuary": "^1.1.3",
